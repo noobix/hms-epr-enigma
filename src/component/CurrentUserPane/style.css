@@ -1,0 +1,12 @@
+.panel {
+    display: flex;
+    flex-direction: column;
+    background-color: rgba(39, 128, 227, 0.8);
+    justify-content: center;
+    align-items: center;
+}
+.qr-code {
+    width: 80%;
+    height: 80%;
+    background-color: white;
+}
